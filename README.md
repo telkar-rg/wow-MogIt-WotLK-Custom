@@ -6,7 +6,7 @@ MogIt is an in-game catalogue of items with the aim of helping players build the
 This custom module is for loading secondary or custom content/items without modifying the base files.  
 **This contains no data of it's own.  It is purely for users who wish to add their server's custom data to MogIt**
 
-**How do I add an item to MogIt?**
+**How do I add an item to MogIt?**  
 Insert the following line with filled in data types:
 i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo)  
 Any of these fields can be replaced with "nil".
