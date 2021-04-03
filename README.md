@@ -7,7 +7,7 @@ This custom module is for loading secondary or custom content/items without modi
 **This contains no data of it's own.  It is purely for users who wish to add their server's custom data to MogIt**
 
 **How do I add an item to MogIt?**  
-Insert the following line with filled in data types:
+Insert the following line into the itemtype file you want it to show up in with filled in data types:
 i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo)  
 Any of these fields can be replaced with "nil".
 
