@@ -15,7 +15,7 @@ Any of these fields can be replaced with "nil".
 
 ## Notes:
  - Any of these fields can be replaced with "nil".
- - Display does not neccesarily need to be the DisplayID of the item, it is an identifier used to group items by appearence (some items have the same appearence but different display IDs).
+ - Display does not necessarily need to be the DisplayID of the item, it is an identifier used to group items by appearance (some items have the same appearance but different display IDs).
  - Name, Item Level, and Quality will auto-populate when the item is cached.  These fields are filler for sorting/filtering on uncached items.
  - The Slot ID filter only shows up on One-handed weapon types.
  - SourceID is the NPC ID that the item is obtained from.
