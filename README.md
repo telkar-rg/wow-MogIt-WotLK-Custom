@@ -12,6 +12,7 @@ Insert the following line into the itemtype file you want it to show up in with 
 Any of these fields can be replaced with "nil".
 
 - After loading the Custom module in game, the item(s) will be added to the base category.
+- If you wish for custom items to appear in their own category, I suggest creating a custom Module or adding a new itemtype under an existing module.
 
 ## Notes:
  - Any of these fields can be replaced with "nil".
