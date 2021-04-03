@@ -8,7 +8,7 @@ This custom module is for loading secondary or custom content/items without modi
 
 **How do I add an item to MogIt?**  
 Insert the following line into the itemtype file you want it to show up in with filled in data types:
-i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo)  
+```i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo) ```  
 Any of these fields can be replaced with "nil".
 
 - After loading the Custom module in game, the item(s) will be added to the base category.
