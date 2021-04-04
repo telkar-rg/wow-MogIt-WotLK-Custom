@@ -19,7 +19,7 @@ Any of these fields can be replaced with "nil".
  - Display does not necessarily need to be the DisplayID of the item, it is an identifier used to group items by appearance (some items have the same appearance but different display IDs).
  - Name, Item Level, and Quality will auto-populate when the item is cached.  These fields are filler for sorting/filtering on uncached items.
  - The Slot ID filter only shows up on One-handed weapon types.
- - SourceID is the NPC ID that the item is obtained from.
+ - SourceID is the NPC ID or Quest ID that the item is obtained from.
  - Zone ID is the Area ID the item is found in.  Note:  Zone IDs and Area IDs are different, this uses [Area ID](https://wowpedia.fandom.com/wiki/WorldMapAreaID).
 
 ## Tables:
