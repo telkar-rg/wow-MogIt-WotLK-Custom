@@ -11,8 +11,9 @@ Insert the following line into the itemtype file you want it to show up in with 
 ```i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo) ```  
 Any of these fields can be replaced with "nil".
 
-- After loading the Custom module in game, the item(s) will be added to the base category.
-- If you wish for custom items to appear in their own category, I suggest creating a custom Base Module or adding a new itemtype under an existing base module such as Accessories.
+- After loading the Custom module in game, the item(s) will be added to MogIt. 
+- The default MogIt_Custom addon loads all additions into a "Custom" slot of the Accessories module, but this can be changed.
+- Additional slots can be added as well by creating a new file and adding it to MogIt_Custom.toc, through this method you can have "Custom" slots under various weapon or armor modules.
 
 ## Notes:
  - Any of these fields can be replaced with "nil".

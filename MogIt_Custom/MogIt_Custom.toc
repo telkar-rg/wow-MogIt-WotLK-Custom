@@ -8,12 +8,4 @@
 ## X-MogItModuleVersion: 2
 
 MogIt_Custom.lua
-
-Cloth\Cloth.xml
-Leather\Leather.xml
-Mail\Mail.xml
-Plate\Plate.xml
-OneHanded\OneHanded.xml
-TwoHanded\TwoHanded.xml
-Ranged\Ranged.xml
-Other\Other.xml
+Custom.lua
