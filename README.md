@@ -1,5 +1,5 @@
 # MogIt-WotLK-Custom
-## [MogIt-WotLK](https://github.com/Skrylas/MogIt-WotLK)
+## [MogIt-WotLK](https://github.com/telkar-rg/wow-MogIt-WotLK)
 
 MogIt is an in-game catalogue of items with the aim of helping players build their own sets for transmogrification purposes.
 
